@@ -10,4 +10,4 @@ perspective, one hand-object interaction at a time. 🖐️
 - 🎮 Unwinding with my Nintendo Switch 2 when the GPU is training
 - 📫 Reach me at: [huyanh995.com](https://huyanh995.com)
 
-> *"First-person vision, second-to-none research."*  ← still workshopping this
+
