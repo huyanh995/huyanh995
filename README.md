@@ -1,21 +1,13 @@
-### Hi there 👋
+### Hey, I'm Huy Anh! 👋
 
-<!--
-**huyanh995/huyanh995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD researcher at the Australian Institute for Machine Learning (AIML), 
+Adelaide University, ex-Stony Brook University, working on **egocentric 
+video understanding** — teaching computers to see the world from a first-person 
+perspective, one hand-object interaction at a time. 🖐️
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **contact detection in egocentric video** (CVPR 2026!)
+- 🌱 Exploring **multimodal** (audio-visual) extensions and world models
+- 🎮 Unwinding with my Nintendo Switch 2 when the GPU is training
+- 📫 Reach me at: [huyanh995.com](https://huyanh995.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### Greetings from Huy Anh!
-
-
+> *"First-person vision, second-to-none research."*  ← still workshopping this
